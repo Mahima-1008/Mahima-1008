@@ -12,7 +12,7 @@
 ### 🐍 Fun Touch
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shashankaz/shashankaz/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Mahima-1008/Mahima-1008/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
